@@ -2,9 +2,9 @@
 
 This data/instructions accompany the following manuscript:
 
-Title: *Membrane mediated mechanical stimuli produces distinct active states in the AT1 receptor*
-Authors: Bharat Poudel, Rajitha Rajeswhar T., Juan Vanegas
-Pre-print: <https://www.researchsquare.com/article/rs-2106113/v1>
+**Title:** *Membrane mediated mechanical stimuli produces distinct active states in the AT1 receptor*  
+**Authors:** Bharat Poudel, Rajitha Rajeswhar T., Juan Vanegas  
+**Pre-print:** <https://www.researchsquare.com/article/rs-2106113/v1>
 
 ## Compiling and installing the PLUMED-patched version of GROMACS
 
