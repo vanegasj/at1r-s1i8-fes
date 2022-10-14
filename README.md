@@ -15,4 +15,4 @@ Installation instruction for compiling and installing PLUMED can be found here: 
 ## Free energy of AT1R with S1I8 partial agonist
 
 The folder S1I8 contains contains the necessary files to reproduce the well-tempered metadynamics free energy calculation shown in Fig. 6c of the manuscript. The file run_metad_sim.sh contains the GROMACS command to launch the WT-metadynamics run with the 8 walkers.
-The folder S1I8/reweight contains the combined colvar files and plumed input files to perform the re-weighting and produce the 2D FES data.
+The folder S1I8/reweight contains the combined colvar files and plumed input files to perform the re-weighting and produce the 2D FES data. The script S1I8/reweight/calc_fes.sh will execute the combining procedure and perform the re-weighting using plumed.
